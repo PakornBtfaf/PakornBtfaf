@@ -75,6 +75,6 @@ HTML, CSS, JavaScript, TypeScript, Dart, Flutter, Python, Git, VS Code
 
 ## ติดต่อจ้างงาน
 
-- [Fastwork](https://fastwork.co/user/pakorn_nimnuan)
-- [Email](pakorn.yod2641@gmail.com)
-- [Instagram](yxd_pk)
+- Fastwork : https://fastwork.co/user/pakorn_nimnuan
+- Email : pakorn.yod2641@gmail.com
+- Instagram : yxd_pk
